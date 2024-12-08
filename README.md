@@ -1,0 +1,1 @@
+Two simple trading strategies implemented in Java on top 19 stocks of the NYSE: 1. A simple crossover and RSI strategy. 2. A mean reversion strategy using linear regression to predict future stock prices. Optimal weights for both strategies were calculated using Monte Carlo simulations (100+ simulations)
